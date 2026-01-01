@@ -1,7 +1,7 @@
 <div align="center">
 <img height="120" src="https://media.giphy.com/media/l0HlPwMAzh13pcZ20/giphy.gif" alt="Spring AOP Animation" />
 
-# 🔄 Spring AOP Demo — Logging & Security with Annotations
+# 🔄 Spring AOP — Logging & Security with Annotations
 
 <p>
 <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
