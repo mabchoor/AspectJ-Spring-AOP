@@ -26,7 +26,6 @@
 - [Getting Started](#-getting-started)
 - [Demo Scenarios](#-demo-scenarios)
 - [Extension Ideas](#-extension-ideas)
-- [License](#-license)
 
 ---
 
